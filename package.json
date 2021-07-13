@@ -69,7 +69,7 @@
     "concurrently": "^3.5.0",
     "cors": "^2.8.4",
     "coveralls": "^3.0.0",
-    "dns-prefetch-control": "^0.1.0",
+    "dns-prefetch-control": "^0.3.0",
     "fast-json-body": "^1.1.0",
     "fast-safe-stringify": "^1.2.1",
     "fastify-plugin": "^0.1.1",
