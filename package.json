@@ -62,7 +62,7 @@
     "node": ">=4.5"
   },
   "devDependencies": {
-    "autocannon": "^0.16.5",
+    "autocannon": "^0.18.0",
     "bluebird": "^3.5.1",
     "boom": "^5.1.0",
     "branch-comparer": "^0.4.0",
